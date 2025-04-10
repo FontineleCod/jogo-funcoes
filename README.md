@@ -1,33 +1,51 @@
-# 🧠 Desafio das Funções
+# 🧠 Desafio das Funções – Jogo de Matemática
 
-Um jogo educativo simples para praticar funções do 1º grau.  
-Aparece uma função do tipo `2x + 1 = 3` e o jogador precisa digitar o valor correto de `x`.  
-Se acertar, a função desaparece e uma nova surge. Se errar, ela fica vermelha!
 
----
-
-## 🎮 Como jogar
-
-1. Abra o arquivo `jogo-funcoes.html` no seu navegador.
-2. Leia a função apresentada.
-3. Digite o valor de `x` que resolve a equação.
-4. Acerte para avançar — erre e veja o desafio em vermelho!
+Um jogo interativo feito em **HTML, CSS e JavaScript** para praticar **funções do 1º grau** de forma divertida e intuitiva. O jogador deve resolver equações do tipo `ax + b = c` e digitar o valor correto de `x` para fazer a equação "sumir" da tela. Se errar, a equação muda de cor indicando o erro.
 
 ---
 
-## 🖼️ Capa do Projeto
+🎯 Objetivo
 
-![Imagem do projeto](https://github.com/user-attachments/assets/2adce22a-5d4f-4783-99ee-51c9941905cd)
-
----
-
-## 💡 Objetivo
-
-Despertar o raciocínio lógico de forma divertida e interativa.  
-Ideal para aplicar em sala de aula com estudantes do ensino fundamental ou médio.
+Praticar o raciocínio lógico e o conteúdo de funções do 1º grau, voltado especialmente para alunos do ensino fundamental e médio.
 
 ---
 
-## 👨‍💻 Autor
+🧩 Como funciona
 
-[Marcelo Fontinele](https://github.com/FontineleCod)
+- O jogo mostra uma equação do tipo `ax + b = c`
+- O jogador digita o valor de `x` que resolve a equação
+- Se acertar, a equação desaparece e uma nova é gerada
+- Se errar, a equação muda de cor como feedback negativo
+
+---
+
+✨ Funcionalidades
+
+- Geração aleatória de funções do 1º grau
+- Validação de respostas
+- Feedback visual imediato
+- Interface simples, leve e intuitiva
+
+---
+
+🚀 Como rodar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/FontineleCod/jogo-funcoes.git
+
+🛠️ Tecnologias utilizadas
+HTML5
+
+CSS3
+
+JavaScript (vanilla)
+
+![Imagem do projeto](https://github.com/user-attachments/assets/611f2308-3da9-43b3-a216-dc3b643b2114)
+
+🤝 Contribuição
+Sugestões, melhorias e forks são muito bem-vindos!
+
+📘 Licença
+Projeto desenvolvido por Marcelo Fontinele — uso livre para fins educacionais.
