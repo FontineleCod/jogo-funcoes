@@ -17,7 +17,7 @@ Se acertar, a função desaparece e uma nova surge. Se errar, ela fica vermelha!
 
 ## 🖼️ Capa do Projeto
 
-(Adicione a imagem de capa no repositório com o nome `capa.png`, que ela aparece aqui depois!)
+![Imagem do projeto](https://github.com/user-attachments/assets/2adce22a-5d4f-4783-99ee-51c9941905cd)
 
 ---
 
